@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Urim and Thummim. Light and truth. / Being the two last sermons preached by Mr. John Guthry, July 17. 1669, in reference to indulgence.</title>
+            <author>Guthrie, John, 1632-1669.</author>
+         </titleStmt>
+         <extent>Approx. 22KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03547</idno><idno type="EEBO-CITATION">51617636</idno>
+  <idno type="VID">175248</idno>
+  <idno type="EEBO-PROQUEST">2240901032</idno>
+  
+            <idno type="STC">Wing G2269A</idno>
+            <idno type="STC">ESTC R177746</idno>
+            <idno type="OCLC">51617636</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B03547)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175248)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2724:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Urim and Thummim. Light and truth. / Being the two last sermons preached by Mr. John Guthry, July 17. 1669, in reference to indulgence.</title>
+                  <author>Guthrie, John, 1632-1669.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Scotland :</pubPlace>
+                  <date>1669]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Concerning maxims of Christian life; published shortly before Guthrie's execution.</note>
+                  <note>Country of publication from Wing.</note>
+                  <note>Dated on known evidence of John Guthrie's execution in 1669.</note>
+                  <note>Without the second sermon.</note>
+                  <note>Imperfect: print fade with some loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="uniform_title">Bible. --  O.T. --  Psalms --  XLIII, 3 --  Sermons.</term>
+               <term type="topical_term">Christian life --  Sermons --  Protestant authors --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:175248:1"/>
+            <head>
+               <hi>Vrim and Thummim.</hi> LIGHT and TRUTH. Being the two last SERMONS. Preached by Mr, JOHN GUTHRY, <hi>July</hi> 17. 1669, in reference to Indulgence.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Psal. 43.3.</hi>
+                  </bibl> O send down thy Light and thy Truth.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">I</seg>T hath ever been one of the sweetning Ingredients of a sad lot ever to the Church, or to the Lord's Friends, to have freedom from Darkness, and to be admitted to walk in his Light; And where that hath been wanting, it's ground of complaint for it self, tho there were no affliction be<g ref="char:EOLhyphen"/>side on the body or spirits of his People: For whether considered in it self, or in the cause or effects of it, there are few strokes comparable to this, when one says, <hi>I sit in darkness, and have no light;</hi> or this, <hi>He is like to take his Truth from me:</hi> Therefore is it that his People plead, <hi>Tak<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> not thy Truth utterly from me.</hi> I believe none could tell what his People could do next, and therefore when this stroke befalls his Peo<g ref="char:EOLhyphen"/>ple, we reckon it their greatest affliction. Hence <hi>Jeremy, I am the Man that hath seen Affliction.</hi> And here it is that his People, when under this, pleads for a removal of it, as it's here; <hi>And send down thy Light, and thy Truth.</hi>
+            </p>
+            <p>From this Verse you may conceive what was the Psalmist's case, and that at this time he had no access to the Hill of God, and would have fain been there; and cleanly there he is in this d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fficulted, w<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ich ye may gather from the first Verse, to wit, the Men he had to do with, de<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eit<g ref="char:EOLhyphen"/>ful
+<pb n="2" facs="tcp:175248:2"/> and unjust men, and given to no small oppression. The remembrance of whilk party makes him afraid of snares, and therefore deals he with God, that he would waird off snares. I would fain have Ordinances, but if I get them not as honestly as I was put from them, it will even be the worse; but if I could win to Light and Truth from God, to be directed in his way, then would I say, O when shall I win again to the Sanctua<g ref="char:EOLhyphen"/>ry! And it could not be objected, Ye are here, but not with foul fingers, but cleanly. O then what a shout should I give of praise in the Temple!</p>
+            <p>Now while he sets himself to deal with God for so desirable a mercy: so in the confideration of his single dependance on God for Light, he ex<g ref="char:EOLhyphen"/>postulates with his soul for its despondency.</p>
+            <p>Now from these words, which are a Prayer and Request, wherein we would have you considering the thing prayed for, that is, Light and Truth; which supposes some present choak of Darkness and hazard is feared. The thing prayed and waited for, is God's Light and Truth, no other being sufficient to direct but that which is founded on God's truth in the Scriptures, whereby we lay aside the light within folk, spoken so much of by some, it's but one Prayer, but one full coming out, from a heart touched with the sense of the want and desirableness of the thing he is pleading for, and said he, <hi>any stroke but darkness,</hi> and, <hi>Lord</hi> (says he) <hi>Light must be hastned, and Truth must be hastned,</hi> for we know not how soon we will be put to it. And amongst all things we are under we pitch on Light and Truth, as the only thing desirable, therefore send out both. And this is the third thing in the words; Lord, would he say, if we get not Light and Truth, we will get a wrong Leader; and no other but thy Light, and thy Truth acknowledg we for a Guide.</p>
+            <p>First, From what is pleaded here, <hi>Light and Truth,</hi> we told you by this Prayer Darkness was supposed. Whence observe,</p>
+            <p>That many times the People of God are in Darkness, so that sometimes they neither know what to say, nor what to do. Jer. 3.2. <hi>Thou hast led me into Darkness and not to Light.</hi> In speaking to this I shall hint at this, What are the things his People are left in Darkness anent? and what are the Reasons of it? And first, It's an ordinary case to his People to be left in darkness in order to their interest, so as they cannot give any believing account thereof. This case is more ordinary than that which is ordina<g ref="char:EOLhyphen"/>rily laid to heart. What sorer case than to have the whole Heavens dark<g ref="char:EOLhyphen"/>ned above your head? I shall speak to this how this comes to pass.</p>
+            <p n="1">1. I think folks have never been at so much pains as to get clear light
+<pb n="3" facs="tcp:175248:2"/> and truth anent the thing, they have not brought their heart under that uncontroverted way of debating what is sufficient for them to rest on.</p>
+            <p n="2">2. A second thing that helps to darken Folks anent their Interest, they keep not so up with God after clearing of their Interest as they did before they wan to it. Folks laid by the liveliness of their exercise of spirit after they wan to some assurance of Interest. When ye walked with him, ye walked under the light of his countenance.</p>
+            <p n="3">3. Folks are not careful to pitch on their Evidences of Interest, and clear them to our selves. It's a strange thing that we can lay weight on any word in all the Bible for our Interest, and not have it as clear to us as the Sun. Therefore it were good folks were considering their hazard of living in darkness.</p>
+            <p>A second thing wherein the Lord's People are often found in darkness, is in order to the finding him out in the day of his absence. Thus the Bride in the <hi>Song, Saw ye him whom my soul loveth?</hi> I have been seeking him in this and that duty, and cannot find him. O if there be any body that has skill where he is or can be found, will ye ease my heart, sorely oppressed for the want of him, so as to tell me where I may find him. I think it were very desirable to see his People under such a case as this is. If the shedding had bin more sad, there had bin hope of a more joyful meeting. I think there has been a very dry-like shedding on our part; tho he has given many a Husband-like look over his shoulder, yet have they not had that strength to draw a Wife-like look to a withdrawing Husband. This is a piece of darkness they fell under in order to the knowing where he is.</p>
+            <p n="3">3. Darkness falls sometimes on his People in order to their present du<g ref="char:EOLhyphen"/>ty. And this is no small piece of darkness, either when it falls on his Church, or on his People: in particular, it's a desirable thing when their way is hedged up that they shall not find their Lovers, but O sad, when their way is hedged up with hewen stones that they cannot find their pre<g ref="char:EOLhyphen"/>sent duty! so as ye cannot find a man in all <hi>Israel</hi> that can say, This is our duty. But there is one or two things that makes this case hopeful. First, when darkness is an affliction on folks spirits; and, 2dly, when folks know not what do do, yet then they betake themselves to God, to wait on him till he appoint their work to them. O that it may not be found with us as it was betwixt <hi>Saul</hi> and <hi>Samuel,</hi> a little time more would have done it. And next, this is a token for good under darkness, that till God point out their duty to them, their eyes are towards God. <hi>We know not what to do, but our eyes are towards thee.</hi> O the Atheism that our hearts broach in dark times.</p>
+            <pb n="4" facs="tcp:175248:3"/>
+            <p>A third thing wherein his People are sometimes found under darkness is, in order to the uptaking of some piece of Truth, that relates not only to their Interest but their Comfort. So the Disciples went to <hi>John, We know not what he saith.</hi> Sometimes such a question as that shews the Fa<g ref="char:EOLhyphen"/>ther, <hi>How wilt thou manifest thy self to us, and not to the World?</hi>
+            </p>
+            <p n="4">4. Sometimes his People are under darkness, in order to the making out of some particular Promises, that sometimes they have been made to believe, so as they dare venture to say, <hi>Doth his Promise fail for ever?</hi> It had been as fit for them to say, <hi>My heart, and my strength, and my flesh fails; but he is the portion of my heart for ever.</hi> Ye remember what <hi>David</hi> said, <hi>Surely one day I shall perish by the hand of Saul.</hi> There is one thing or two that makes folk to utter this language, or helps to breed in the heart such things as this flows from. 1. When the Lord removes all out of their sight, by which they conclude he would fulfil his Promises, and when these means and ways misgives them, then their hope gets a set. 2. When the Lord is all along in the way of his Dispensations strengthning things, whereby his Interest is weakned; sometimes strengthens the hands of the enemies, so as nothing they contrive but they get it brought to pass, and weakens his Friends so, as sometimes when the Lo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d's Friends were ma<g ref="char:EOLhyphen"/>ny, then were his People's spirits raised with lively expectation, but when these are taken away their spirits begin to sink.</p>
+            <p n="5">5. There are sometimes Dispensations his People are left in the dark anent, albeit they be in themselves very signifying, and which he wills his People to read what is signified by them, yet his people often will be in such a case as they can neither reade what is in them, nor what to make of them, as the washing of the Disciples feet, <hi>&amp;c.</hi>
+            </p>
+            <p>Lastly; I apprehend if <hi>Scotland</hi>'s case this day be seriously considered, and compared with its case in the day of its bowing it self to God, it will be found that there is an unknown Cloud setten down on the Prophets of <hi>Scotland.</hi> I think they are happy who have not gotten a touch of that darkness that has overspread our Land. Thar <hi>Scotland</hi> is yet under the Cloud, I will point at two or three things that ordinarily attends a dark time. First, If it be light with us, how comes it that we see the most part possessed with so much diffidence as to the truth of the way they walk in, in the day of the light of <hi>Scotland.</hi> Our Prophets had confidence, our people had confidence in the way they were in, that it was the way of Truth. I am not saying there is none, yet but few in respect of the generality, they are groping, finding about with their hands to grip the oldmarks.</p>
+            <pb n="5" facs="tcp:175248:3"/>
+            <p>A second symptom of Darkness is this: Ye know it's ordinary when folks walk in the night, they are afraid, so that there's not the courage, boldness, fulness and freedom of spirit that his People were of when they had light. Many put their hands to things they are afraid of. How comes this to pass? it was not so when the Sun of <hi>Scotland</hi> was not run under the Cloud. How comes it that duty is to many as that whereof they are afraid, and would hide from all, that none should know what they were about, it's lamentable; that in these things, we say, are du<g ref="char:EOLhyphen"/>ties approven of God, has testimonies in their bosoms, yet when the Lord will open us up in these, we look like folks that were taken at an ill turn in the night.</p>
+            <p n="4">4. Ye know in the night folk know not where to set down their feet; stumbling-blocks are not seen and discerned: as in the night you will not see a stone in your gate, here one falling, and there another fal<g ref="char:EOLhyphen"/>ling, and one falling over another. These things may convince us that Darkness has over-taken us. We have faln as those who have been walk<g ref="char:EOLhyphen"/>ing in slippery places — ever since Darkness has been our case: is there any duty that remains for such? And here I shall point at two or three things: First, that we would believe the thing, and look on it as one of the saddest things that has befaln us, and sad Ingredients in the Cup of our Affliction. There are some things by which we may be helped to consider the sadness of the thing; one is this, We need never go further off to prove that the Sun of Righteousness is not shining in its brightness amongst us. Where he is shining in the horizon of his People, there is no darkness. But this Truth is holden true to <hi>Scotland.</hi> Wo be to you when he departs from you 2. Consider that when he contends by this stroke with his People, he in a manner ranks them with Enemies, and counts them not as Friends. For this is one of the strokes he brings on them, <hi>Jer.</hi> 23.12. <hi>to make them walk in slippery places, as in the night, and to stumble and fall, &amp;c.</hi> And it's sad when he is provoked to strike with the same strokes he uses to strike the eminentest of his Enemies with. 3. This may shew how sad this stroke of darkness is, it casts all his People loose every one to seek a several way, as the night does people. This is a sad Consideration, when we remember how much we are divided, and sub<g ref="char:EOLhyphen"/>divided. How is this come to pass? our night is come on, and it's a consequent of our darkness, that makes it a sad and deplorable condition, that every one is groping to meet the road through darkness, and never any two keeping the gate almost together. 4. The evil of this case may
+<pb n="6" facs="tcp:175248:4"/> be pointed out by this, that it brings them to be somewhat in a nearer capacity to that which they were before they were in Covenant with God. <hi>Sometimes were you darkness, but now are ye light in the Lord.</hi> But O how sad then it may be said, Sometimes were ye light, but now are ye dark<g ref="char:EOLhyphen"/>ness, and so, as we are become the reproach of all Nations! 5. Consi<g ref="char:EOLhyphen"/>der how like it makes a Church or Person to those that are thrust into Hell it self, where is utter darkness. Folks brought under a dark case, are like such who are finding as it were a piece of Hell creeping on upon their souls; it's such a Plague as when once it enters into the heart, and seizeth on it, it gives being to all the evils that lodge in the heart.</p>
+            <p n="2">2dly. I would say this to such who are under this case, While there is any light remaining, endeavour to hold hand to strengthen the things that remain, that are ready to die; lest ye become like the Woman to the King of <hi>Israel, My Spark shall be put out.</hi> Are there Convictions coming alongst and visiting your souls? is any thing spoken to you from the Word or Dispensations? entertain it, lest your Spark in <hi>Israel</hi> be quenched. O save one eye, Man, if thou dow! O save one eye, Woman, if thou dow! 2. Consider wherefra this had its rise. I'le tell you it has had its, rise in some, from slavish fear to gain something has darkned the eye of some; and to keep, has darkned the eye of others. Look that the hope of get<g ref="char:EOLhyphen"/>ting something of this World, or the fear of losing, has put out your eyes or not; many has been blinded with less things: but some folks has shut their eye-lids that they will not look up at all, but are walking blindfold<g ref="char:EOLhyphen"/>ed. Next, The Lord would be eyed singly, as that which is the fountain of Light, from whom it must beam in upon us, <hi>Isa.</hi> 50. last. Look to it that those who make a Fire of their own building, and compass them<g ref="char:EOLhyphen"/>selves about with sparks, they shall lie down in sorrow, mickle sorrow find. Wo be it! for we and others too are often choak'd with it. This is the fruit of the imagination of our own heart. O happy they who with the Psalmist have their eyes towards the Lord! Thus I would say to such who sit in darkness, and have no light, let them trust in the Lord, and stay themselves on God. Shall they that sit in darkness, trust in the Lord when they have no light? Folk would not lose their patience, and startle to the gate ere they get light from God, but ought to trust. I dare say, if God were trusted in, and singly eyed for direction, it should never be our plague.</p>
+            <p>The next thing is, That as folks would wait on God, and trust in him under darkness, so they would resolve to imploy God for the gift of light
+<pb n="7" facs="tcp:175248:4"/> and Truth: For here he enters to his Prayers, <hi>O send out thy Light and thy Truth.</hi> And this leads on to the third thing in the World That it's amongst the desirable mercies of a Church or persons in the<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> dark<g ref="char:EOLhyphen"/>ness, to be trysted with Light and Truth. There are two or thre<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> things hold out to you the desirableness of this Mercy.</p>
+            <p n="1">1. It's one of the special things Christ has in Commission, to open the eyes of the blind, to give light to them that sit in darkness. It's one of the greatest proofs that the Gospel is preached, when Light be<g ref="char:EOLhyphen"/>gins to spread and break up, and Truth is vindicated. Then Christ is working, our Lord is then working amidst the Golden Candlesticks, and is not only there but he is about his Office, he is working</p>
+            <p>The second thing, speaking the desirableness of this M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rcy, is, The high value God's People have put on it. Hence it is that <hi>David</hi> in the fourth Psalm prefers the lifting up of God's Countenance to all the frui<g ref="char:EOLhyphen"/>tions of the World. What's your petition to day? would you have his Countenance lifted up upon you? Were Ballances created that could hold all that were in Heaven and Earth, Sea, and all that is in them, yet could it be nothing in comparison of them; nor would all that could be put in this Ballance be but like a little pile of Dust that a man would blow off of a Ballance.</p>
+            <p n="3">3. This Light, and freedom from Darkness, is one of the most resto<g ref="char:EOLhyphen"/>ring Blessings that a Church or Soul is capable of, as in the last of <hi>Malachy, But unto you that fear the Lord, the Sun of Righteousness shall arise with healing under his wings.</hi> What will that do? There needs no more to thaw the dozened frozen hearts of his People. I shall melt you, would he say. O for the fight of the appearing of that day-star from on high! O our souls faint for that healing sight.</p>
+            <p n="4">4. His Friends put it up as the chief Complaint, and foremost: Then how desirable a mercy would that be, the removal whereof brings on the saddest things, and saddest complaints of his People. Two or three things from this. First, look that folks pray for no Light but that which is God's, and founded on his Truth; it's Thy Light; <hi>Send forth thy Light.</hi> All Lights besides this are Darkness.</p>
+            <p n="2">2dly. There is no other thing we would have you seeking, that folks would not be satisfied to have Light and Truth sent forth for themselves, but so large as may reach the whole Church; that is to say, Ministers might be filled with it, and people might be filled with it, and snares re<g ref="char:EOLhyphen"/>moved; and if not removed, yet eyes to see the same. O to see the
+<pb n="8" facs="tcp:175248:5"/> Priests of the Lord cloath<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d with this Light and Truth, and to see the Saints shouting whilst they behold it!</p>
+            <p n="3">3dly, Seek that Light and Truth that may bring healing with it. What will you do with Light it ye get not Healing? If we get not heal<g ref="char:EOLhyphen"/>ing, we shall all turn light and froth<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>: th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>refore carry this Promise in to your Prayers, That Light and Healing may not be separated, but may be jointly given to the Church We are under many distempers and must be healed, and it will be a meikle matter that vvill heal our breaches, and make us a standing house again.</p>
+            <p>Again, I would have you, as to cry for Light and Truth, so also that the Power may also come out therewith, so as all the divided Bairns of this poor Kirk might be comented and captivated with his Light and his Truth, so as none might mistake the Light, and call it darkness, but that many might be made Children of the Light, who were before Children naturally in darkness. O but this would be desirable, this would make us that promise that the Children would be crying out, Stretch out my Tents and my Cords: wherefore stretch we cannot get room enough. And the Church shall cry, Who has begotten me these? O but these would be heartsom days! O for such a birth of Converts! that would make up Widows and Fatherless, and loss of Kin, Friends and Alliance.</p>
+            <p>
+               <hi>There is another property w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> must have with Light, or it will do us little good, and that is Love; <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ight and Love. O to see Light rising, as that reflecting on hearts, it were warming their love <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd affection to Truth, and God himself, with the Brethren: if this come not out with light, our light <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ill turn into fro<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> reasons. Why the Lord's People should count this a desirable me cy to have Light first; because <hi>walking in the Light, and in the Truth,</hi> is the walk that has immunity and freedom from offences and stumbling. Light and Truth removes these. <hi>H<gap reason="illegible" resp="#keyers" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e are they who love his Law, nothing shall offend them.</hi> Now that Law is that which gives Light. 2. It's Light that makes folk walk with confidence and boldness. It's her<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>at <hi>Luther</hi> said, <hi>I'le yield to no man;</hi> why; <hi>I never took a cause by the hand but Christ'<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> He walked in the Light, and therefore he was bold as a Lion. 3. It first s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ts free from the trouble of many. <hi>Who can harm you, if ye be followers of that which is good?</hi> But next, it capacitates you to endure persecution well, and capacita<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s you to hold the more of Glory. 4. It's that which makes a nice case also happy, as he is capable of in this side of time. Since Light and Truth is so desirable, I recommend it to you as a pres<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t du<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y, to make serious conscience of Prayer to the Lord, That he would send forth his Ligh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and Truth, and that for this reason; Ye hear of ane Indulgence to Ministers to preach, and that the tryals are like to come nearer tryals for Ministers. If they do come to his Temple cleanly, yet their Faithfulness will try them: therefore it's your concernment to pray, <hi>Lord, send out thy Light and thy Truth.</hi> For i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> they be not faithful, it will be one of th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> saddest str<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>s that <hi>Scotland</hi> hath met with these twenty years.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
